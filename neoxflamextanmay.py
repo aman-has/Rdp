@@ -69,7 +69,7 @@ def load_links():
                 },
                 {
                     "name": "Public Channel",
-                    "username": "@RANDIAPEX",
+                    "username": "",
                     "link": "",
                     "type": "public",
                     "enabled": True
